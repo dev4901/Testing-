@@ -1,2 +1,4 @@
 hello, this are the contents of t2.txt
 anything editied below that would be of t2.txt
+
+change1-b2 - this change has been made in b2 branch
