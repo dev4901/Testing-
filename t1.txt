@@ -3,4 +3,9 @@ abcdefgh
 ABCDEFGH
 this is change1 in t1 file for test
 
+
 change1-b1 - change is done in b1 branch
+
+change1-b2 - changed in branch b2 
+change2-b3 - changed in branch b2
+
